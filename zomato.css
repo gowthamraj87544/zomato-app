@@ -1,0 +1,151 @@
+.head-image{
+  width: 78em;
+  height: 80vh;
+  filter: blur(2px);
+-webkit-filter: blur(2px);
+
+  
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(244, 239, 239);
+  /* position: relative;
+  bottom: 90vh; */
+
+
+}
+
+.list{
+  position: relative;
+  bottom: 80vh;
+  cursor: pointer;
+  
+}
+h1,h4{
+  text-align: center;
+  color: rgb(247, 243, 243);
+  position: relative;
+  bottom: 75vh;
+}
+.zomato{
+  font-size:75px;
+  font-weight: bolder;
+}
+.drop-text{
+  font-size: 30px;
+}
+.search-content{
+  position: relative;
+  bottom: 75vh;
+  left: 60vh;
+} 
+.search-logo{
+  width: 12px;
+  position: relative;
+  right: 5vh;
+}
+.search-bar{
+  width:50vh;
+  height: 5vh;
+  margin-left: -5px;
+  border-radius: 0px 12px 12px 0px ;
+  border: 0px solid;
+}
+.state{
+  width:25vh;
+  height: 5vh;
+  border-radius: 12px 0px 0px 12px;
+  border: 0px solid;
+}
+/* --------header------- */
+.order-online{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+.first{
+  box-shadow: 1px 0px 12px;
+  width: 300px;
+  height: 274px;
+  border-radius: 10px;
+  margin: 10px;
+}
+p{
+text-align: center;
+}
+.second{
+  box-shadow: 1px 0px 12px;
+  width: 300px;
+  height: 274px;
+  border-radius: 10px;
+  margin: 10px;
+}
+.dining{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px; 
+}
+.nightlife{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+.third{
+  box-shadow: 1px 0px 12px;
+  width: 300px;
+  height: 274px;
+  border-radius: 10px;
+  margin: 10px; 
+}
+.secondbar,.thirdbar{
+  display: flex;
+ position: relative;
+ bottom: 268px;
+ left: 20vh;
+}
+/* -----secondbar---- */
+.collections{
+  font-size: 30px;
+  text-align: left;
+  position: relative;
+  bottom: 300px;
+  left: 128px;
+
+}
+.para{
+  text-align: left;
+  position: relative;
+  bottom: 320px;
+  left: 120px;
+}
+.newly-opend{
+  width: 250px;
+  height: 200px;
+  border-radius: 10px; 
+}
+.third-1{
+  box-shadow: 1px 0px 12px;
+  width: 250px;
+  height: 274px;
+  border-radius: 10px;
+  margin: 10px;   
+}
+.third-2,.third-3,.third-4{
+  box-shadow: 1px 0px 12px;
+  width: 250px;
+  height: 274px;
+  border-radius: 10px;
+  margin: 10px;   
+}
+.trending,.chennai,.bar-pubs{
+  width: 250px;
+  height: 200px;
+  border-radius: 10px; 
+}
+
+.table{
+  border: 1px solid;
+}
